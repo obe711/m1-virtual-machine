@@ -3,20 +3,20 @@
 1. Install UTM from:
 `https://mac.getutm.app/`
 
-2. Open UTM from your Application directory and press `Browse UTM Gallery`
+2. Open UTM from your Application directory and press `Browse UTM Gallery`\
 ![Open UTM](img/openUTM.png)
-3. Select an OS. (Example: Ubuntu 20.04)
+3. Select an OS. (Example: Ubuntu 20.04)\
 ![Select 
 OS](img/selectOS.png)
 4. Click the `Ubuntu Server for ARM` Link and download the ISO.
 
-5. In the UTM app, Press `Create a New Virtual Machine`
+5. In the UTM app, Press `Create a New Virtual Machine`\
 ![Create a New Virtual 
 Machine](img/openUTM.png)
-6. Select `Virtualize`.
+6. Select `Virtualize`.\
 ![Select 
 Virtualize](img/selectVirtualize.png)
-7. Select `Linux`.
+7. Select `Linux`.\
 ![Select 
 Linux](img/selectLinux.png)
 8. Click `Browse` and select the Ubuntu Server ISO you just downloaded. 
